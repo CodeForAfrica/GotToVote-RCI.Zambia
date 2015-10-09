@@ -11,13 +11,16 @@
 *
 */
 
-.header {
-  padding-top: 10px;
-  padding-bottom: 100px;
-  background: #f4f4f4 url('../img/waterfall.jpg');
+body {
+  background: #ffffff url('../img/waterfall.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: center top;
+}
+
+.header {
+  padding-top: 10px;
+  padding-bottom: 100px;
 
   .logo {
     height: 90px;
@@ -56,7 +59,7 @@
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
-  background-color: #fff;
+  background-color: transparent;
 
   h1 {
     font-size: 72px;
