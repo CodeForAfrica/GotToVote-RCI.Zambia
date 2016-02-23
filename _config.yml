@@ -19,7 +19,7 @@ url: 'gottovote.zambiavote2016.org'
 safe: true
 
 # Conversion
-highlighter: pygments
+highlighter: rouge
 
 # ------------------------------------------------------------------------------
 # Fusion Tables Config
