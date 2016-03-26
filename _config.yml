@@ -8,6 +8,9 @@ registration_end_date: "13th August 2014"
 api_key: "AIzaSyAwvkIls5mQybyp2R3g4FGiVetNdeVjUeE"
 table_id: "1WwZ5OZEXAeFwxVPVyjT8IytEWqpItLy2whADpieX"
 
+url: https://zambia.gottovote.cc   # with the https protocol
+enforce_ssl: zambia.gottovote.cc   # without any protocol
+
 google_analytics: 'UA-36749298-5'
 
 url: 'gottovote.zambiavote2016.org'
